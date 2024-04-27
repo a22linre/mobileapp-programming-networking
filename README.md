@@ -1,6 +1,8 @@
 
 # Rapport
 
+In this assignment a recycler view was created and the items that presented is "name" from mountains.json file. 
+
 Added a Recycler view container into the layout in activity_main.xml:
 
 ```
